@@ -1,0 +1,50 @@
+header{
+	color:white;
+	background-color:orangered;
+	border-style: solid;
+	border-color: black;
+	border-width: 5px;
+	border-radius: 1px;
+}
+
+body{
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 1%;
+}
+
+h2{
+	color:white;
+	background-color:black; 
+	border-style: solid;
+	border-color: magenta;
+	border-width: 5px;
+	border-radius: 15px;
+}
+
+p{
+	text-align:center;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.dcenter
+{
+     position: absolute;
+     margin: auto;
+     top: 0;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     width: 600px;
+     height: 300px;
+}
